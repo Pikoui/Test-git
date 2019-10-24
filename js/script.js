@@ -209,4 +209,21 @@ Show.addEventListener("click", function() {
     Show.classList.toggle("special");
 }); */
 
-// Github
+/* Github
+
+0) Aller dans notre dossier contenant notre projet -OK
+1) Initialiser un repo local (vide) -OK
+2) Ajouter les fichiers/DOSSIERS QUE L'ON VEUT ENVOYER - Ok
+3) Sauvegarder nos modifications pour être prêts à envoyer notre repo local sur le repo distant -
+4) 
+5)
+
+// CVommandes Git
+Vérifier si Git est installé : 'git' => Si la liste apparaît,
+Git est installé.
+Initialiser un repo local vide : git init
+Ajouter des fichiers à notre repo local :
+
+git config user.name "votre name"
+git config.user.email "votre email"
+*/
